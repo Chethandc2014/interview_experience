@@ -54,7 +54,7 @@
 - Different Annotation in Hibernate?
 
 ## Microservice Question
-- Design Principle of Microservice Architecture?
+- Design Principle of Microservice Architecture? -- Key principles include single responsibility, loose coupling, scalability, fault tolerance, and decentralized data management
 - How do you handle Transaction in Microservice Architecture?
 - Zool and Hystix of Microservice?
 
