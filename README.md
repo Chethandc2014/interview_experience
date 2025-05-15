@@ -34,6 +34,7 @@
 - What are Join point and point cuts in AOP?
 - What is Compile time weaving and Runtime weaveing?
 - What @Asynch in Spring
+- Difference between JAX-RS vs Spring Boot for RESt-API implementation?
 - Can Rest Webservice Supports other Prortocol ?
 - How will you manage new features in Restfull service?
 - How do you do Exception handling in Spring?
